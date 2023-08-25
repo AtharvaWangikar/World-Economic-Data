@@ -1,4 +1,4 @@
-# World-Economic-Data
+# World-Economic-Data Analysis
 Creating Data Visualization and Dashboards to better understand the Global Economic scenario: We will develop interactive and visually engaging dashboards presenting key economic indicators, trends, and forecasts. Now, any organization can use this data and forecasts for data-driven decision-making. Many organizations nowadays, require insights on how to diversify their portfolio, and our visualizations and dashboards aim to solve this very problem. From the huge amount of data available, we will be able to understand problems faced by various developing and developed nations and we would be able to devise for more sustainable development. We will be focusing on a set of critical metrics such as Corruption, Standard of living, GDP per capita, Unemployment, etc. We will be able to utilize data visualization tools such as IBM Cognos to create charts, graphs, and maps that make it easier for decision-makers to grasp complex economic insights at a glance.
 
 # Novelty / Uniqueness:
